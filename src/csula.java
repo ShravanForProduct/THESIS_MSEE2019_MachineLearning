@@ -13,8 +13,6 @@ import java.util.*;
 public class csula
 {	
 
-
-
 	public static void main(String args[]) throws Exception
     {
 //create the first object
